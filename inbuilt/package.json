@@ -1,0 +1,16 @@
+{
+  "name": "inbuilt",
+  "version": "1.0.0",
+  "description": "inbulting library",
+  "main": "staticapi.js",
+  "scripts": {
+    "start": "node http.js"
+  },
+  "author": "ak",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "fs": "^0.0.1-security",
+    "http": "^0.0.1-security"
+  }
+}
